@@ -15,3 +15,6 @@
 2025-01-16 20:30:33.746 | INFO     | __main__:main:114 - I just shared a story! It was boring.
 2025-01-16 20:30:36.747 | INFO     | __main__:main:114 - I just shared a story! It was funny.
 2025-01-16 20:30:39.749 | INFO     | __main__:main:114 - I just loved a trick! It was funny.
+2025-01-16 20:45:06.132 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-16 20:45:06.133 | INFO     | __main__:main:68 - START...
+2025-01-16 20:45:06.133 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
