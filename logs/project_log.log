@@ -166,3 +166,166 @@
 2025-01-19 14:48:32.486 | INFO     | __main__:main:114 - I just watched an episode! It was boring.
 2025-01-19 14:48:35.487 | INFO     | __main__:main:114 - I just watched an audiobook! It was exciting.
 2025-01-19 14:48:38.488 | INFO     | __main__:main:114 - I just found an episode! It was interesting.
+2025-01-19 14:48:41.536 | INFO     | __main__:main:114 - I just loved a story! It was unique.
+2025-01-19 14:48:44.653 | INFO     | __main__:main:114 - I just watched a movie! It was exciting.
+2025-01-19 14:48:47.902 | INFO     | __main__:main:114 - I just listened to an audiobook! It was exciting.
+2025-01-19 14:48:50.905 | INFO     | __main__:main:114 - I just found a story! It was boring.
+2025-01-19 14:48:53.992 | INFO     | __main__:main:114 - I just loved a movie! It was exciting.
+2025-01-19 14:48:56.995 | INFO     | __main__:main:114 - I just watched a song! It was exciting.
+2025-01-19 14:48:59.997 | INFO     | __main__:main:114 - I just loved an audiobook! It was interesting.
+2025-01-19 14:49:02.999 | INFO     | __main__:main:114 - I just found a movie! It was unique.
+2025-01-19 14:49:06.001 | INFO     | __main__:main:114 - I just found a movie! It was exciting.
+2025-01-19 14:49:09.005 | INFO     | __main__:main:114 - I just loved an episode! It was exciting.
+2025-01-19 14:49:12.010 | INFO     | __main__:main:114 - I just found a story! It was boring.
+2025-01-19 14:49:15.033 | INFO     | __main__:main:114 - I just watched an audiobook! It was exciting.
+2025-01-19 14:49:18.067 | INFO     | __main__:main:114 - I just listened to a movie! It was funny.
+2025-01-19 14:49:21.114 | INFO     | __main__:main:114 - I just watched an audiobook! It was interesting.
+2025-01-19 14:49:24.117 | INFO     | __main__:main:114 - I just enjoyed an episode! It was interesting.
+2025-01-19 14:49:27.120 | INFO     | __main__:main:114 - I just watched a song! It was exciting.
+2025-01-19 14:49:30.122 | INFO     | __main__:main:114 - I just loved a song! It was exciting.
+2025-01-19 14:49:33.127 | INFO     | __main__:main:114 - I just loved a song! It was unique.
+2025-01-19 14:49:36.128 | INFO     | __main__:main:114 - I just enjoyed a movie! It was unique.
+2025-01-19 14:49:39.131 | INFO     | __main__:main:114 - I just loved an episode! It was boring.
+2025-01-19 14:49:42.132 | INFO     | __main__:main:114 - I just enjoyed a song! It was exciting.
+2025-01-19 14:49:45.133 | INFO     | __main__:main:114 - I just enjoyed a movie! It was funny.
+2025-01-19 14:49:48.135 | INFO     | __main__:main:114 - I just watched a movie! It was exciting.
+2025-01-19 14:49:51.163 | INFO     | __main__:main:114 - I just enjoyed a movie! It was interesting.
+2025-01-19 14:49:54.171 | INFO     | __main__:main:114 - I just watched an episode! It was exciting.
+2025-01-19 14:49:57.173 | INFO     | __main__:main:114 - I just enjoyed a movie! It was interesting.
+2025-01-19 14:50:00.174 | INFO     | __main__:main:114 - I just found a story! It was boring.
+2025-01-19 14:50:03.176 | INFO     | __main__:main:114 - I just watched an audiobook! It was funny.
+2025-01-19 14:50:06.177 | INFO     | __main__:main:114 - I just found an episode! It was exciting.
+2025-01-19 14:50:09.179 | INFO     | __main__:main:114 - I just found a song! It was boring.
+2025-01-19 14:50:12.180 | INFO     | __main__:main:114 - I just watched a song! It was interesting.
+2025-01-19 14:50:15.182 | INFO     | __main__:main:114 - I just enjoyed a song! It was boring.
+2025-01-19 14:50:18.183 | INFO     | __main__:main:114 - I just enjoyed a movie! It was funny.
+2025-01-19 14:50:21.185 | INFO     | __main__:main:114 - I just found a song! It was interesting.
+2025-01-19 14:50:24.187 | INFO     | __main__:main:114 - I just watched an audiobook! It was exciting.
+2025-01-19 14:50:27.189 | INFO     | __main__:main:114 - I just watched a movie! It was exciting.
+2025-01-19 14:50:30.191 | INFO     | __main__:main:114 - I just enjoyed a song! It was boring.
+2025-01-19 14:50:33.192 | INFO     | __main__:main:114 - I just enjoyed an audiobook! It was exciting.
+2025-01-19 14:50:36.194 | INFO     | __main__:main:114 - I just watched a movie! It was interesting.
+2025-01-19 14:50:39.195 | INFO     | __main__:main:114 - I just watched an audiobook! It was interesting.
+2025-01-19 14:50:42.197 | INFO     | __main__:main:114 - I just loved an audiobook! It was boring.
+2025-01-19 14:50:45.209 | INFO     | __main__:main:114 - I just loved an audiobook! It was interesting.
+2025-01-19 14:50:48.211 | INFO     | __main__:main:114 - I just found an audiobook! It was interesting.
+2025-01-19 14:50:51.213 | INFO     | __main__:main:114 - I just loved an audiobook! It was interesting.
+2025-01-19 14:50:54.214 | INFO     | __main__:main:114 - I just loved a movie! It was exciting.
+2025-01-19 14:50:57.216 | INFO     | __main__:main:114 - I just loved a song! It was exciting.
+2025-01-19 14:51:00.217 | INFO     | __main__:main:114 - I just found an episode! It was boring.
+2025-01-19 14:51:03.218 | INFO     | __main__:main:114 - I just listened to an episode! It was unique.
+2025-01-19 14:51:06.219 | INFO     | __main__:main:114 - I just found a movie! It was unique.
+2025-01-19 14:51:09.220 | INFO     | __main__:main:114 - I just enjoyed an episode! It was unique.
+2025-01-19 14:51:12.224 | INFO     | __main__:main:114 - I just loved an episode! It was boring.
+2025-01-19 14:51:15.225 | INFO     | __main__:main:114 - I just listened to a story! It was unique.
+2025-01-19 14:51:18.227 | INFO     | __main__:main:114 - I just watched an audiobook! It was unique.
+2025-01-19 14:51:21.229 | INFO     | __main__:main:114 - I just listened to an episode! It was funny.
+2025-01-19 14:51:24.230 | INFO     | __main__:main:114 - I just watched a song! It was unique.
+2025-01-19 14:51:27.262 | INFO     | __main__:main:114 - I just watched a song! It was unique.
+2025-01-19 14:51:30.265 | INFO     | __main__:main:114 - I just loved an episode! It was interesting.
+2025-01-19 14:51:33.266 | INFO     | __main__:main:114 - I just enjoyed a movie! It was funny.
+2025-01-19 14:51:36.267 | INFO     | __main__:main:114 - I just found a movie! It was exciting.
+2025-01-19 14:51:39.270 | INFO     | __main__:main:114 - I just found an episode! It was funny.
+2025-01-19 14:51:42.272 | INFO     | __main__:main:114 - I just listened to a song! It was boring.
+2025-01-19 14:51:45.275 | INFO     | __main__:main:114 - I just found an audiobook! It was exciting.
+2025-01-19 14:51:48.277 | INFO     | __main__:main:114 - I just enjoyed a song! It was unique.
+2025-01-19 14:51:51.278 | INFO     | __main__:main:114 - I just listened to a song! It was funny.
+2025-01-19 14:51:54.281 | INFO     | __main__:main:114 - I just enjoyed a movie! It was boring.
+2025-01-19 14:51:57.285 | INFO     | __main__:main:114 - I just watched a movie! It was funny.
+2025-01-19 14:52:00.287 | INFO     | __main__:main:114 - I just enjoyed a song! It was funny.
+2025-01-19 14:52:03.288 | INFO     | __main__:main:114 - I just listened to a story! It was exciting.
+2025-01-19 14:52:06.291 | INFO     | __main__:main:114 - I just watched an audiobook! It was interesting.
+2025-01-19 14:52:09.293 | INFO     | __main__:main:114 - I just loved a story! It was exciting.
+2025-01-19 14:52:12.295 | INFO     | __main__:main:114 - I just listened to a story! It was interesting.
+2025-01-19 14:52:15.297 | INFO     | __main__:main:114 - I just found an episode! It was boring.
+2025-01-19 14:52:18.298 | INFO     | __main__:main:114 - I just watched an audiobook! It was unique.
+2025-01-19 14:52:21.300 | INFO     | __main__:main:114 - I just found an episode! It was funny.
+2025-01-19 14:52:24.301 | INFO     | __main__:main:114 - I just listened to an episode! It was funny.
+2025-01-19 14:52:27.303 | INFO     | __main__:main:114 - I just found a movie! It was funny.
+2025-01-19 14:52:30.305 | INFO     | __main__:main:114 - I just enjoyed a story! It was interesting.
+2025-01-19 14:52:33.307 | INFO     | __main__:main:114 - I just listened to an audiobook! It was interesting.
+2025-01-19 14:52:36.309 | INFO     | __main__:main:114 - I just found a movie! It was exciting.
+2025-01-19 14:52:39.310 | INFO     | __main__:main:114 - I just listened to a story! It was boring.
+2025-01-19 14:52:42.312 | INFO     | __main__:main:114 - I just listened to a movie! It was boring.
+2025-01-19 14:52:45.314 | INFO     | __main__:main:114 - I just enjoyed an episode! It was unique.
+2025-01-19 14:52:48.316 | INFO     | __main__:main:114 - I just watched a song! It was boring.
+2025-01-19 14:52:51.317 | INFO     | __main__:main:114 - I just listened to a song! It was exciting.
+2025-01-19 14:52:54.319 | INFO     | __main__:main:114 - I just found a movie! It was funny.
+2025-01-19 14:52:57.320 | INFO     | __main__:main:114 - I just found an episode! It was boring.
+2025-01-19 14:53:00.321 | INFO     | __main__:main:114 - I just listened to a movie! It was unique.
+2025-01-19 14:53:03.322 | INFO     | __main__:main:114 - I just loved an episode! It was funny.
+2025-01-19 14:53:06.323 | INFO     | __main__:main:114 - I just listened to an audiobook! It was interesting.
+2025-01-19 14:53:09.324 | INFO     | __main__:main:114 - I just listened to a story! It was interesting.
+2025-01-19 14:53:12.325 | INFO     | __main__:main:114 - I just watched an episode! It was boring.
+2025-01-19 14:53:15.326 | INFO     | __main__:main:114 - I just listened to an episode! It was exciting.
+2025-01-19 14:53:18.327 | INFO     | __main__:main:114 - I just listened to an episode! It was unique.
+2025-01-19 14:53:21.329 | INFO     | __main__:main:114 - I just listened to a movie! It was exciting.
+2025-01-19 14:53:24.330 | INFO     | __main__:main:114 - I just watched a song! It was unique.
+2025-01-19 14:53:27.332 | INFO     | __main__:main:114 - I just listened to an audiobook! It was interesting.
+2025-01-19 14:53:30.333 | INFO     | __main__:main:114 - I just watched an audiobook! It was unique.
+2025-01-19 14:53:33.335 | INFO     | __main__:main:114 - I just found an audiobook! It was unique.
+2025-01-19 14:53:36.337 | INFO     | __main__:main:114 - I just listened to a movie! It was unique.
+2025-01-19 14:53:39.340 | INFO     | __main__:main:114 - I just listened to a story! It was boring.
+2025-01-19 14:53:42.341 | INFO     | __main__:main:114 - I just listened to an episode! It was interesting.
+2025-01-19 14:53:45.343 | INFO     | __main__:main:114 - I just loved an audiobook! It was interesting.
+2025-01-19 14:53:48.346 | INFO     | __main__:main:114 - I just watched a story! It was funny.
+2025-01-19 14:53:51.347 | INFO     | __main__:main:114 - I just listened to a story! It was unique.
+2025-01-19 14:53:54.351 | INFO     | __main__:main:114 - I just loved a movie! It was interesting.
+2025-01-19 14:53:57.354 | INFO     | __main__:main:114 - I just watched an episode! It was interesting.
+2025-01-19 14:54:00.357 | INFO     | __main__:main:114 - I just loved an episode! It was interesting.
+2025-01-19 14:54:03.359 | INFO     | __main__:main:114 - I just found an audiobook! It was interesting.
+2025-01-19 14:54:06.362 | INFO     | __main__:main:114 - I just loved an audiobook! It was interesting.
+2025-01-19 14:54:09.364 | INFO     | __main__:main:114 - I just listened to an audiobook! It was boring.
+2025-01-19 14:54:12.365 | INFO     | __main__:main:114 - I just enjoyed an audiobook! It was unique.
+2025-01-19 14:54:15.367 | INFO     | __main__:main:114 - I just watched a song! It was funny.
+2025-01-19 14:54:18.377 | INFO     | __main__:main:114 - I just listened to an audiobook! It was boring.
+2025-01-19 14:54:21.379 | INFO     | __main__:main:114 - I just loved an episode! It was unique.
+2025-01-19 14:54:24.381 | INFO     | __main__:main:114 - I just enjoyed a song! It was interesting.
+2025-01-19 14:54:27.384 | INFO     | __main__:main:114 - I just watched an audiobook! It was funny.
+2025-01-19 14:54:30.386 | INFO     | __main__:main:114 - I just loved a movie! It was exciting.
+2025-01-19 14:54:33.389 | INFO     | __main__:main:114 - I just found a movie! It was unique.
+2025-01-19 14:54:36.390 | INFO     | __main__:main:114 - I just listened to a movie! It was funny.
+2025-01-19 14:54:39.391 | INFO     | __main__:main:114 - I just watched a song! It was funny.
+2025-01-19 14:54:42.393 | INFO     | __main__:main:114 - I just watched an episode! It was funny.
+2025-01-19 14:54:45.394 | INFO     | __main__:main:114 - I just found a story! It was boring.
+2025-01-19 14:54:48.398 | INFO     | __main__:main:114 - I just enjoyed an audiobook! It was boring.
+2025-01-19 14:54:51.399 | INFO     | __main__:main:114 - I just enjoyed an audiobook! It was interesting.
+2025-01-19 14:54:54.402 | INFO     | __main__:main:114 - I just loved an episode! It was exciting.
+2025-01-19 14:54:57.403 | INFO     | __main__:main:114 - I just loved an audiobook! It was funny.
+2025-01-19 14:55:00.404 | INFO     | __main__:main:114 - I just watched an audiobook! It was boring.
+2025-01-19 14:55:03.406 | INFO     | __main__:main:114 - I just found a movie! It was exciting.
+2025-01-19 14:55:06.408 | INFO     | __main__:main:114 - I just found a song! It was exciting.
+2025-01-19 14:55:09.408 | INFO     | __main__:main:114 - I just enjoyed an episode! It was interesting.
+2025-01-19 14:55:12.410 | INFO     | __main__:main:114 - I just watched a movie! It was unique.
+2025-01-19 14:55:15.411 | INFO     | __main__:main:114 - I just watched a song! It was interesting.
+2025-01-19 14:55:18.412 | INFO     | __main__:main:114 - I just listened to an episode! It was interesting.
+2025-01-19 14:55:21.414 | INFO     | __main__:main:114 - I just listened to a story! It was unique.
+2025-01-19 14:55:24.417 | INFO     | __main__:main:114 - I just listened to a song! It was funny.
+2025-01-19 14:55:27.419 | INFO     | __main__:main:114 - I just found a story! It was interesting.
+2025-01-19 14:55:30.421 | INFO     | __main__:main:114 - I just loved a song! It was funny.
+2025-01-19 14:55:33.423 | INFO     | __main__:main:114 - I just enjoyed a movie! It was interesting.
+2025-01-19 14:55:36.426 | INFO     | __main__:main:114 - I just found an audiobook! It was funny.
+2025-01-19 14:55:39.428 | INFO     | __main__:main:114 - I just enjoyed a song! It was interesting.
+2025-01-19 14:55:41.306 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-19 14:55:41.306 | INFO     | __main__:main:68 - START...
+2025-01-19 14:55:41.307 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-19 14:55:42.430 | INFO     | __main__:main:114 - I just loved an episode! It was interesting.
+2025-01-19 14:55:45.431 | INFO     | __main__:main:114 - I just enjoyed a song! It was funny.
+2025-01-19 14:55:48.433 | INFO     | __main__:main:114 - I just found a story! It was exciting.
+2025-01-19 14:55:51.434 | INFO     | __main__:main:114 - I just loved a song! It was exciting.
+2025-01-19 14:55:54.436 | INFO     | __main__:main:114 - I just found an episode! It was exciting.
+2025-01-19 14:55:57.437 | INFO     | __main__:main:114 - I just found an episode! It was funny.
+2025-01-19 14:56:00.439 | INFO     | __main__:main:114 - I just loved an episode! It was exciting.
+2025-01-19 14:56:03.442 | INFO     | __main__:main:114 - I just listened to a story! It was exciting.
+2025-01-19 14:56:06.444 | INFO     | __main__:main:114 - I just watched a story! It was interesting.
+2025-01-19 14:56:09.446 | INFO     | __main__:main:114 - I just watched a story! It was interesting.
+2025-01-19 14:56:12.447 | INFO     | __main__:main:114 - I just found an audiobook! It was exciting.
+2025-01-19 14:56:15.449 | INFO     | __main__:main:114 - I just found an audiobook! It was boring.
+2025-01-19 14:56:18.450 | INFO     | __main__:main:114 - I just enjoyed an episode! It was interesting.
+2025-01-19 14:56:21.452 | INFO     | __main__:main:114 - I just loved an audiobook! It was unique.
+2025-01-19 14:56:24.456 | INFO     | __main__:main:114 - I just watched a movie! It was boring.
+2025-01-19 14:56:27.458 | INFO     | __main__:main:114 - I just enjoyed an episode! It was interesting.
+2025-01-19 14:56:30.459 | INFO     | __main__:main:114 - I just listened to a story! It was exciting.
+2025-01-19 14:56:33.461 | INFO     | __main__:main:114 - I just enjoyed an audiobook! It was funny.
+2025-01-19 14:56:36.463 | INFO     | __main__:main:114 - I just watched a song! It was exciting.
+2025-01-19 14:56:39.467 | INFO     | __main__:main:114 - I just loved an audiobook! It was boring.

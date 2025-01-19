@@ -30,7 +30,7 @@ def process_message(log_file) -> None:
     with open(log_file, "r") as file:
         # Move to the end of the file
         file.seek(0, os.SEEK_END)
-        print("Consumer is ready and waiting for a new log message...")
+        print("The log is waiting for a new message...")
 
         # Use while True loop so the consumer keeps running forever
         while True:
@@ -49,10 +49,10 @@ def process_message(log_file) -> None:
             # We got a new log entry!
             # Remove any leading/trailing white space and log the message
             message = line.strip()
-            print(f"Consumed log message: {message}")
+            print(f"The new message: {message}")
 
             # monitor and alert on special conditions
-            if "I just loved a movie! It was funny." in message:
+            if "I just enjoyed a song! It was unique." in message:
                 print(f"ALERT: The special message was found! \n{message}")
                 logger.warning(f"ALERT: The special message was found! \n{message}")
 
