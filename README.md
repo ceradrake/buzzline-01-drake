@@ -1,4 +1,4 @@
-# buzzline-01-case
+# buzzline-01-drake
 
 This project introduces streaming data. 
 The Python language includes generators - we'll use this feature to generate some streaming buzzline messages. 
@@ -51,6 +51,9 @@ Follow the instructions in [MANAGE-VENV.md](docs/MANAGE-VENV.md) to:
 2. Activate .venv
 3. Install the required dependencies using requirements.txt.
 
+### Task 3A: Activate the Virtual Environment
+Windows code to activate the virtual environment: .venv\Scripts\activate
+
 The instructions are repeated in requirements.txt as this file exists in all our projects. 
 
 ## Task 4. Generate Streaming Data (Terminal 1)
@@ -67,13 +70,13 @@ Windows PowerShell:
 
 ```shell
 .venv\Scripts\activate
-py -m producers.basic_producer_case
+py -m producers.basic_producer_drake
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m producers.basic_producer_case
+python3 -m producers.basic_producer_drake
 ```
 
 ## Task 5. Monitor an Active Log File (Terminal 2)
@@ -87,13 +90,13 @@ Use the commands below to activate .venv, and run the file as a module.
 Windows:
 ```shell
 .venv\Scripts\activate
-py -m consumers.basic_consumer_case
+py -m consumers.basic_consumer_drake
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.basic_consumer_case
+python3 -m consumers.basic_consumer_drake
 ```
 
 ## Save Space
